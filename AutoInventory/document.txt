@@ -1,0 +1,1 @@
+Make: Nissan, Model: Altima, Color: Yellow, Year: 2023, Mileage: 20000
